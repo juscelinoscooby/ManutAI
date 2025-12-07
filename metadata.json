@@ -1,0 +1,5 @@
+{
+  "name": "ManutAI Checklist",
+  "description": "Uma aplicação inteligente para criação de checklists de manutenção, execução via chatbot e geração de relatórios formatados para WhatsApp.",
+  "requestFramePermissions": []
+}
